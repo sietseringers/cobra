@@ -9,7 +9,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/spf13/pflag"
+	"github.com/sietseringers/pflag"
 )
 
 const (

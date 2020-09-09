@@ -13,7 +13,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/spf13/pflag"
+	"github.com/sietseringers/pflag"
 )
 
 var powerShellCompletionTemplate = `using namespace System.Management.Automation

@@ -1,7 +1,7 @@
 package cobra
 
 import (
-	"github.com/spf13/pflag"
+	"github.com/sietseringers/pflag"
 )
 
 // MarkFlagRequired adds the BashCompOneRequiredFlag annotation to the named flag if it exists,
